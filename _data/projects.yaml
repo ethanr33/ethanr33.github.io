@@ -1,0 +1,8 @@
+
+- name: Emulation
+  projects:
+    - name: Chip8 Interpreter for Arduino
+      description: A Chip 8 interpreter implemented on the Arduino Mega
+      github: ethanr33/Arduino-Chip-8
+      homepage: https://www.youtube.com/watch?v=jTxRyNZgnJo
+      image: Chip8-Interpreter.png

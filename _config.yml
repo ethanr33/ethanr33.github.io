@@ -1,0 +1,21 @@
+
+# This is how Jekyll knows to use this theme.
+remote_theme: tedivm/jekyll-theme-portfolio
+
+
+title: Ethan Roos's Projects
+author: Ethan Roos
+email: eroos101@gmail.com
+description: >
+  My personal/portfolio website
+
+
+# Header Links - all optional. If set these create header links.
+homepage: https://ethanr33.github.io
+github_username: ethanr33
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme # Lets us test remote themes locally.
